@@ -1,7 +1,7 @@
 # **Ben White**
 <a href="mailto:benjaminwhite@live.co.uk">benjaminwhite@live.co.uk</a>&#8599;
 
-Once upon a time retail manager who switched to exploring code in summer 2016 with **Makers Academy**.<br>I have always been excited by the internals of how something works (from the natural world to the digital) and the role creativity plays in a solution finding process. As I am also fascinated by the intersection of art, technology and humanity in the modern world I decided to explore some of my curiousities further. After some [Venn diagrams](https://en.wikipedia.org/wiki/Venn_diagram) I realised the fleeting affinity with code I had satisified them and was inticed by the perpetual opportunity to learn it revealed.
+Once upon a time retail manager who switched to exploring code in summer 2016 with **Makers Academy**.<br>I have always been excited by the internals of how something works (from the natural world to the digital) and the role creativity plays in a solution finding process. I am also fascinated by the intersection of art, technology and humanity in the modern world and so I decided to explore some of my curiousities further. After some [Venn diagrams](https://en.wikipedia.org/wiki/Venn_diagram) I realised the fleeting affinity with code I had would satisfy them and was inticed by the perpetual opportunity to learn it revealed.
 
 ## **Skills**
 
