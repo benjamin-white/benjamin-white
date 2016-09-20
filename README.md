@@ -17,13 +17,13 @@ Once upon a time retail manager who switched to exploring code in summer 2016 wi
 
 #### _Communication_
 
-* Patient and calm team player always willing to empathise and see a situation from different perspectives. I have nurtured a flexible communication model from 360 and stop/start/continue feedback in previous roles.
-* My previous employment has allowed me to develop effective communication with a broad demographic in at times highly demanding and fast paced environments. My core learning was that mutual success is built on reflective and pre-emptive communication styles rather than reactive.
-* I have attended more than one course on communication using the 'Colours' framework. While I did not identify with the way it seeks to startify peoples' character I do resonate with its underlying tennant, "speak with people in a voice _they_ can listen to".
+* Patient and calm team player always willing to empathise and see a situation from different perspectives. I have nurtured a flexible communication model building on 360&deg; feedback and 'stop/start/continue' sessions in previous roles.
+* My previous employment has allowed me to develop effective communication with a broad demographic in at times highly demanding and fast paced environments. These events have ranged from aggressive customer complaints to equipment and vehicle breakdown during peak trading times, though varied in nature the objective is always to find the positive outcome from the situation. My core learning was that mutual success is built on reflective and pre-emptive communication styles rather than reactive.
+* I have attended more than one course on communication using the 'Insight Colours' framework. While I did not identify with the way it seeks to stratify peoples' character I do resonate with its underlying tennant, "speak with people in a voice _they_ can listen to". I came out between blue and red, which certainly reflects part of my personality.
 
 #### _Management_
 
-*  9 years in retail management worrking for Iceland foods with teams of up to 40 people.
+*  9 years in retail management working for Iceland foods with teams of up to 40 people.
 * A strong work ethic and organisational skills where required to ensure marketing events were landed on time and to a high standard with availible resources.
 * I worked in three stores and all had an improvement in Key Performance Indicators during my time at them. These improvements covered team engagement and loss control with themes such as enhancing feedback and more effective scheduling.
 * I enjoyed my time in retail and was priveleged to have worked with some incredible people, but eventually felt I was no longer being stretched by the challenges it presented.
