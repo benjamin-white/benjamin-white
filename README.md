@@ -1,7 +1,7 @@
 # **Ben White**
 <a href="mailto:benjaminwhite@live.co.uk">benjaminwhite@live.co.uk</a>&#8599;
 
-Once upon a time retail manager who switched to exploring code in summer 2016 with **Makers Academy**.<br>I have always been excited by the internals of how something works (from the natural world to the digital) and the role creativity plays in a solution finding process. I am also fascinated by the intersection of art, technology and humanity in the modern world and so I decided to explore some of my curiousities further. After some [Venn diagrams](https://en.wikipedia.org/wiki/Venn_diagram) I realised the fleeting affinity with code I had would satisfy them and was inticed by the perpetual opportunity to learn it revealed.
+Once upon a time a retail manager who switched to exploring code in summer 2016 with **Makers Academy**.<br>I have always been excited by the internals of how something works (from the natural world to the digital) and the role creativity plays in a solution finding process. I am also fascinated by the intersection of art, technology and humanity in the modern world and so I decided to explore some of my curiousities further. After some [Venn diagrams](https://en.wikipedia.org/wiki/Venn_diagram) I realised the fleeting affinity with code I had would satisfy them and was inticed by the perpetual opportunity to learn it revealed.
 
 ## **Skills**
 
@@ -26,7 +26,7 @@ Once upon a time retail manager who switched to exploring code in summer 2016 wi
 *  9 years in retail management working for Iceland foods with teams of up to 40 people.
 * A strong work ethic and organisational skills where required to ensure marketing events were landed on time and to a high standard with availible resources.
 * I worked in three stores and all had an improvement in Key Performance Indicators during my time at them. These improvements covered team engagement and loss control with themes such as enhancing feedback and more effective scheduling.
-* I enjoyed my time in retail and was priveleged to have worked with some incredible people, but eventually felt I was no longer being stretched by the challenges it presented.
+* I enjoyed my time in retail and was privileged to have worked with some incredible people, but eventually felt I was no longer being stretched by the challenges it presented.
 
 ## **Recent Projects**
 
