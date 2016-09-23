@@ -1,7 +1,7 @@
 # **Ben White**
 <a href="mailto:benjaminwhite@live.co.uk">benjaminwhite@live.co.uk</a>&#8599;
 
-Once upon a time a retail manager who switched to exploring code in summer 2016 with **Makers Academy**.<br>I have always been excited by the internals of how something works (from the natural world to the digital) and the role creativity plays in a solution finding process. I am also fascinated by the intersection of art, technology and humanity in the modern world and so I decided to explore some of my curiousities further. After some [Venn diagrams](https://en.wikipedia.org/wiki/Venn_diagram) I realised the fleeting affinity with code I had would satisfy them and was inticed by the perpetual opportunity to learn it revealed.
+Once upon a time a retail manager switched to exploring code in summer 2016 with **Makers Academy**.<br>I have always been excited by the internals of how something works (from the natural world to the digital) and the role creativity plays in a solution finding process. I am also fascinated by the intersection of art, technology and humanity in the modern world and so I decided to explore some of my curiousities further. After some [Venn diagrams](https://en.wikipedia.org/wiki/Venn_diagram) I realised the fleeting affinity with code I had would satisfy them and was inticed by the perpetual opportunity to learn it revealed.
 
 ## **Skills**
 
@@ -50,6 +50,19 @@ My final week project at Makers completed with four other students. We used Rail
 
 * HND in Multimedia
 * Exploring the role and impact of digital technologies in motion and interactive design.
+
+## **Employment History**
+
+#### _Iceland Foods | 2006 - October 2016_
+* Worked as Duty Manager, Supervisor and Senior Supervisor within the business.
+* Involved with all aspects of the business from creation and maintenance of rotas to ensuring legal compliance with health and safety, licensing (I have acted as sale of alcohol DPS) and vehicle accidents.
+* I have actively sought ownership of business KPIs, seeing where I could make a positive impact and seeking the responsibility to do so. Then investing in training to transfer ownership to other team members when appropriate.
+* Over my nine years I have received zero customer complaints and a number of compliments via customer care, which is notoriously difficult in a full-time store role.
+
+#### _Gardener & Groundworker | 1998 - 2006_
+* Initially working with a partner to private customers this role evolved to groundwork on new build properties.
+* The key take home from this role was a project's success demands team cohesion, and this is made from individuals' commitment and accountability.
+* This was also when I learned to contribute all that I can each day at work.
 
 ## **About Me**
 
