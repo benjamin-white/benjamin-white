@@ -32,7 +32,7 @@ Currently I work for a Kent based but remote first web agency. The role is full 
 
 One of my projects was the original build and later rebrand of a multisite of seven regions two of which have ecommerce, <a href="https://playshufl.com" target="_blank" rel="noopener noreferrer">playshufl.com</a>. A unique challenge of this build was synchronising content between the sites. I would be happy to share more projects I have built on request.
 
-I have enjoy my current role but now want to stretch myself with new challenges while building on the knowldege and experience that I already have. 
+I enjoy my current role but want to stretch myself with new challenges building on the knowldege and experience that I have. 
 
 **Deputy Manager** at **Iceland Foods** from 2006 to 2016  
 
