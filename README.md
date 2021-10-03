@@ -1,4 +1,4 @@
-# Benjamin Wight
+# Ben White
 
 <a href="mailto:benjaminwhite@live.co.uk">benjaminwhite@live.co.uk</a>  
 <a href="https://workbyben.com/" target="_blank" rel="noopener noreferrer">workbyben.com</a>  
@@ -6,7 +6,7 @@
 
 ## _**About me**_
 
-I have worked professionally for five years as a full stack web developer. Prior to my current role I worked in retail management but a long time passion for code drove me to finally make the switch in 2016 after attending a bootcamp with the aim of expanding my knowledge. I am generally thoughful and patient but decisive where and when needed. I like to find the fun in challenges and feel value in knowing what I do contributes to a business's overall success.
+I have worked professionally for five years as a full stack web developer. Prior to my current role I worked in retail management but a long time passion for code drove me to finally make the switch in 2016 after attending a bootcamp with the aim of expanding my knowledge. I am generally thoughful and patient but decisive where and when needed. I like to find fun in challenges and feel value in knowing what I do contributes to a business's overall success.
 
 Other than coding my interests are 3D graphics (viewable here <a href="https://behance.net/nvlnvl" target="_blank" style="text-decoration:underline" rel="noopener noreferrer">https://behance.net/nvlnvl</a>), finding great music, reading books and going to the park with my family.
 
@@ -32,7 +32,7 @@ Currently I work for a Kent based but remote first web agency. The role is full 
 
 One of my projects was the original build and later rebrand of a multisite of seven regions two of which have ecommerce, <a href="https://playshufl.com" target="_blank" rel="noopener noreferrer">playshufl.com</a>. A unique challenge of this build was synchronising content between the sites. I would be happy to share more projects I have built on request.
 
-I have enjoyed my current role but now want to stretch myself with new challenges while building on the knowldege and experience that I already have. 
+I have enjoy my current role but now want to stretch myself with new challenges while building on the knowldege and experience that I already have. 
 
 **Deputy Manager** at **Iceland Foods** from 2006 to 2016  
 
