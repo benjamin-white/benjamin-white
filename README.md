@@ -1,69 +1,57 @@
-# **Ben White**
-<a href="mailto:benjaminwhite@live.co.uk">benjaminwhite@live.co.uk</a>&#8599;
+# Benjamin Wight
 
-Once upon a time a retail manager switched to exploring code in summer 2016 with **Makers Academy**.<br>I have always been excited by the internals of how something works (from the natural world to the digital) and the role creativity plays in a solution finding process. I am also fascinated by the intersection of art, technology and humanity in the modern world and so I decided to explore some of my curiousities further. After some [Venn diagrams](https://en.wikipedia.org/wiki/Venn_diagram) I realised the fleeting affinity with code I had would satisfy them and was inticed by the perpetual opportunity to learn it revealed.
+<a href="mailto:benjaminwhite@live.co.uk">benjaminwhite@live.co.uk</a>  
+<a href="https://workbyben.com/" target="_blank" rel="noopener noreferrer">workbyben.com</a>  
+<a href="https://www.linkedin.com/in/ben-nvlnvl/" target="_blank" rel="noopener noreferrer">LinkedIn</a>  
 
-## **Skills**
+## _**About me**_
 
-#### _Software Development_
+I have worked professionally for five years as a full stack web developer. Prior to my current role I worked in retail management but a long time passion for code drove me to finally make the switch in 2016 after attending a bootcamp with the aim of expanding my knowledge. I am generally thoughful and patient but decisive where and when needed. I like to find the fun in challenges and feel value in knowing what I do contributes to a business's overall success.
 
-* Test driven code using _Rspec, Capybara, Jasmine, Mocha_ and headless browsers such as _ZombieJS_ and _Selenium_.
-* Experience using SQL databases through ORMs such as _datamapper_ and _activerecord_. Also experience using non-relational database systems (_MongoDB_).
-* Agile practices such as doing daily stand-ups, retros and delivering MVPs with an incremental approach to feature addition.
-* Writing fullstack MVC apps with RESTful routing using _RoR, Sinatra_ and _Express_.
-* Understanding of and ability to apply in practice key design considerations such as Single Responsibility, Dependancy Injection and encapsulation.
-* Good knowldege of HTML and CSS with an appreciation for the importance of writing semantic markup.
-* Driven to write clean and maintainable code.
+Other than coding my interests are 3D graphics (viewable here <a href="https://behance.net/nvlnvl" target="_blank" style="text-decoration:underline" rel="noopener noreferrer">https://behance.net/nvlnvl</a>), finding great music, reading books and going to the park with my family.
 
-#### _Communication_
+## _**Key Skills**_
 
-* Patient and calm team player always willing to empathise and see a situation from different perspectives. I have nurtured a flexible communication model building on 360&deg; feedback and 'stop/start/continue' sessions in previous roles.
-* My previous employment has allowed me to develop effective communication with a broad demographic in at times highly demanding and fast paced environments. These events have ranged from aggressive customer complaints to equipment and vehicle breakdown during peak trading times, though varied in nature the objective is always to find the positive outcome from the situation. My core learning was that mutual success is built on reflective and pre-emptive communication styles rather than reactive.
-* I have attended more than one course on communication using the 'Insight Colours' framework. While I did not identify with the way it seeks to stratify peoples' character I do resonate with its underlying tennant, "speak with people in a voice _they_ can listen to". I came out between blue and red, which certainly reflects part of my personality.
++ **Javascript**, **PHP** and **SQL**
++ React (class based and v16+ hooks)
++ I write semantic **HTML** and cross browser **SASS/CSS**
++ Custom Webpack setups and transpiling with Babel
++ Experience with a range of popular frontend libraries, eg. Lodash, D3, Fuse, ThreeJS
++ Consuming and writing RESTful APIs and working with GraphQL
++ Applying SOLID principles within OOP
++ SEO optimisation techniques
++ Apache, CRON and DNS configuration
++ Git and Gitflow
++ Experience writing unit and feature tests and following the Red/Green/Refactor methodology
 
-#### _Management_
+## _**Employment History**_
 
-*  9 years in retail management working for Iceland foods with teams of up to 40 people.
-* A strong work ethic and organisational skills where required to ensure marketing events were landed on time and to a high standard with availible resources.
-* I worked in three stores and all had an improvement in Key Performance Indicators during my time at them. These improvements covered team engagement and loss control with themes such as enhancing feedback and more effective scheduling.
-* I enjoyed my time in retail and was privileged to have worked with some incredible people, but eventually felt I was no longer being stretched by the challenges it presented.
+**Senior Developer** at **<a href="https://sixtwo.tech" target="_blank" rel="noopener noreferrer">sixtwo.tech</a>** from 2016 to present  
 
-## **Recent Projects**
+Currently I work for a Kent based but remote first web agency. The role is full stack; writing server and client side code, making and implementing infrastructure decisions and managing DNS for our clients. I provide support to other developers with feedback in code reviews and 1 to 1 catch-ups, help unblock them on technical and architectural roadblocks and guide on best practice. I co-ordinate closely with design to ensure we arrive at UI and UX solutions that meet accesibility requirements and SEO performance. I collaborate with project management by quoting on projects, giving advice on feasibility and helping to refine requirements. This partnership helps to ensure projects can be delivered on time and meet or surpass expectations. The core platform we have been working with is Wordpress alongside Advanced Custom Fields while headless Gutenberg and a React frontend is where we're going at the moment.  
 
-A couple of recent projects I really enjoyed working on.
+One of my projects was the original build and later rebrand of a multisite of seven regions two of which have ecommerce, <a href="https://playshufl.com" target="_blank" rel="noopener noreferrer">playshufl.com</a>. A unique challenge of this build was synchronising content between the sites. I would be happy to share more projects I have built on request.
 
-#### [Volunteer Matcher](https://github.com/benjamin-white/volunteer-matcher)&#8599;
-A group project completed while attending Makers Academy for connecting charitable projects needing support with resources. We chose to push ourselves and completed this project entirely in Javascript using node and MongoDB which I loved working with.
+I have enjoyed my current role but now want to stretch myself with new challenges while building on the knowldege and experience that I already have. 
 
-#### [Blank Canvas](https://github.com/benjamin-white/blank_canvas)&#8599;
-My final week project at Makers completed with four other students. We used Rails to quickly deliver a site that allowed users to paint rooms with a custom palette generated from an uploaded photo. This presented some unexpected learning curves and the chance to use SVGs with Javascript for interactivity which was a lot of fun to do!
+**Deputy Manager** at **Iceland Foods** from 2006 to 2016  
 
+I was involved with all aspects of the business such as legal compliance, creation of rotas and staff reviews.
+I actively sought ownership of business KPIs, seeing where I could make a positive impact and then pursuing the responsibility to do so.
+I particularly enjoyed increasing team engagement through training and coaching staff. I worked in three stores progressing from Supervisor to Deputy Manager working with and having managerial responsibility for teams of up to 30 people.
+</p>
 
-## **Education**
+**Gardener & Groundworker** from 1998 - 2006  
 
-#### _Makers Academy | June - September 2016_
+Initially working with a partner to private customers this role evolved to groundwork on new build properties. The key learning from this role was a project's success demands team cohesion, and this is made from individuals' commitment and accountability.
 
-* A fast paced and intensive full-time spring board course in software development.
-* I completed the course remotely and while working part-time at weekends. This was very demanding but a worthwhile and rewarding experience.
+## _**Education**_
 
-#### _Canterbury Christ Church | 2002 - 2004_
+**3 month full-time remote coding bootcamp** with **Makers Academy** in 2016  
 
-* HND in Multimedia
-* Exploring the role and impact of digital technologies in motion and interactive design.
+A fast paced and intensive course in software development. The course focused on Agile methodologies, pair programming and TDD. It was taught primarily using Ruby, RSpec, Capybara and Rails with a continual emphasis on using the Single Responsibility Principle and object oriented structuring of programs.
+I completed the course remotely and while working part-time at weekends. This was very demanding but a worthwhile and rewarding experience.
 
-## **Employment History**
+**HND in Multimedia** at **Canterbury Christ Church**, 2002 - 2004  
 
-#### _Iceland Foods | 2006 - October 2016_
-* Worked as Duty Manager, Supervisor and Senior Supervisor within the business.
-* Involved with all aspects of the business from creation and maintenance of rotas to ensuring legal compliance with health and safety, licensing (I have acted as sale of alcohol DPS) and vehicle accidents.
-* I have actively sought ownership of business KPIs, seeing where I could make a positive impact and seeking the responsibility to do so. Then investing in training to transfer ownership to other team members when appropriate.
-* Over my nine years I have received zero customer complaints and a number of compliments via customer care, which is notoriously difficult in a full-time store role.
-
-#### _Gardener & Groundworker | 1998 - 2006_
-* Initially working with a partner to private customers this role evolved to groundwork on new build properties.
-* The key take home from this role was a project's success demands team cohesion, and this is made from individuals' commitment and accountability.
-* This was also when I learned to contribute all that I can each day at work.
-
-## **About Me**
-
-In my spare time I enjoy reading science, philosophy and of course programming books. I have occasionally dipped my toes into freelance illustration, which for the curious can be seen on the site <a href="http://workbyben.com">workbyben</a>&#8599;. My favourite place to visit is Iceland for its beautiful landscapes (and I like that Nordic minimalism thing!).
+Exploring the role and impact of digital technologies in motion and interactive design.
