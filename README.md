@@ -28,11 +28,9 @@ Other than coding my interests are 3D graphics (viewable here <a href="https://b
 
 **Senior Developer** at **<a href="https://sixtwo.tech" target="_blank" rel="noopener noreferrer">sixtwo.tech</a>** from 2016 to present  
 
-Currently I work for a Kent based but remote first web agency. The role is full stack; writing server and client side code, making and implementing infrastructure decisions and managing DNS for our clients. I provide support to other developers with feedback in code reviews and 1 to 1 catch-ups, help unblock them on technical and architectural roadblocks and guide on best practice. I co-ordinate closely with design to ensure we arrive at UI and UX solutions that meet accesibility requirements and SEO performance. I collaborate with project management by quoting on projects, giving advice on feasibility and helping to refine requirements. This partnership helps to ensure projects can be delivered on time and meet or surpass expectations. The core platform we have been working with is Wordpress alongside Advanced Custom Fields while headless Gutenberg and a React frontend is where we're going at the moment.  
+Currently I work for a Kent based but remote first web agency. The role is full stack; writing server and client side code, making and implementing infrastructure decisions and managing DNS for our clients. I provide support to other developers with feedback in code reviews and 1 to 1 catch-ups, help unblock them on technical and architectural roadblocks and guide on best practice. I co-ordinate closely with design to ensure we arrive at UI and UX solutions that meet accesibility requirements and SEO performance. I collaborate with project management by quoting on projects, giving advice on feasibility and helping to refine requirements. This partnership helps to ensure projects can be delivered on time and meet or surpass expectations. The core platform we have been working with is Wordpress alongside Advanced Custom Fields while headless Gutenberg and a React frontend is where we're going at the moment.
 
-One of my projects was the original build and later rebrand of a multisite of seven regions two of which have ecommerce, <a href="https://playshufl.com" target="_blank" rel="noopener noreferrer">playshufl.com</a>. A unique challenge of this build was synchronising content between the sites. I would be happy to share more projects I have built on request.
-
-I enjoy my current role but want to stretch myself with new challenges building on the knowldege and experience that I have. 
+I enjoy my current role but am always open to stretching myself with new challenges building on the knowldege and experience that I have. 
 
 **Deputy Manager** at **Iceland Foods** from 2006 to 2016  
 
